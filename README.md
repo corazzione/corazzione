@@ -97,7 +97,6 @@ Have an idea or a product that needs to be built right? Let's talk.
 ### GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=corazzione&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F0F0F&title_color=D4882A&icon_color=C9A84C&text_color=C0C0CC" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corazzione&layout=compact&theme=github_dark&hide_border=true&bg_color=0F0F0F&title_color=D4882A&text_color=C0C0CC" />
 </p>
 
@@ -115,11 +114,7 @@ If you have a product idea or need someone who can handle both the code and the 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=corazzione&bg_color=0F0F0F&color=C0C0CC&line=D4882A&point=C9A84C&hide_border=true&area=true" width="100%" />
 
 <br/>
 
