@@ -97,6 +97,7 @@ Have an idea or a product that needs to be built right? Let's talk.
 ### GitHub Stats
 
 <p align="left">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corazzione&theme=github_dark" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corazzione&layout=compact&theme=github_dark&hide_border=true&bg_color=0F0F0F&title_color=D4882A&text_color=C0C0CC" />
 </p>
 
